@@ -1,0 +1,6 @@
+.classpath
+.project
+.sbtserver.lock
+project/project/*
+project/target/*
+target/*
